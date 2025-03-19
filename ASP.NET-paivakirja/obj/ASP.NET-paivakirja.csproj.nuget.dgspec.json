@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\ASP.NET-paivakirja\\ASP.NET-paivakirja\\ASP.NET-paivakirja.csproj": {}
+    "/media/marko/00B426F1B426E8BC/Tietokone projektit/ASP.NET-paivakirja/ASP.NET-paivakirja/ASP.NET-paivakirja.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\ASP.NET-paivakirja\\ASP.NET-paivakirja\\ASP.NET-paivakirja.csproj": {
+    "/media/marko/00B426F1B426E8BC/Tietokone projektit/ASP.NET-paivakirja/ASP.NET-paivakirja/ASP.NET-paivakirja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\ASP.NET-paivakirja\\ASP.NET-paivakirja\\ASP.NET-paivakirja.csproj",
+        "projectUniqueName": "/media/marko/00B426F1B426E8BC/Tietokone projektit/ASP.NET-paivakirja/ASP.NET-paivakirja/ASP.NET-paivakirja.csproj",
         "projectName": "ASP.NET-paivakirja",
-        "projectPath": "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\ASP.NET-paivakirja\\ASP.NET-paivakirja\\ASP.NET-paivakirja.csproj",
-        "packagesPath": "C:\\Users\\Marko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marko\\Desktop\\metropolia koulu\\Työharjoittelu\\Projektit\\ASP.NET-paivakirja\\ASP.NET-paivakirja\\obj\\",
+        "projectPath": "/media/marko/00B426F1B426E8BC/Tietokone projektit/ASP.NET-paivakirja/ASP.NET-paivakirja/ASP.NET-paivakirja.csproj",
+        "packagesPath": "/home/marko/.nuget/packages/",
+        "outputPath": "/media/marko/00B426F1B426E8BC/Tietokone projektit/ASP.NET-paivakirja/ASP.NET-paivakirja/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/marko/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Users\\Marko\\Desktop\\metropolia koulu\\4 vuosi kesä\\RPA\\Published": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
         }
       }
     }
